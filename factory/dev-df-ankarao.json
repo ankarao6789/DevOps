@@ -1,0 +1,9 @@
+{
+	"name": "dev-df-ankarao",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "743f4c8f-989d-4441-8329-a0742aa99dff",
+		"tenantId": "29982e47-2a05-41d8-a95f-f6acfe685ab6"
+	}
+}
